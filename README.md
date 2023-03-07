@@ -1,3 +1,5 @@
+comandos disponiveis
+
 anunciar
 ban
 clear
